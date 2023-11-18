@@ -25,4 +25,10 @@
     <td></td>
     <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
+   <tr>
+    <td>4</td>
+    <td>Data Pioneers</td>
+    <td></td>
+    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
+  </tr>
 </table>
