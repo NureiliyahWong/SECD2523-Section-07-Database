@@ -10,7 +10,7 @@
   <tr>
     <td>1</td>
     <td>Query Kings</td>
-    <td></td>
+    <td>18-11-2023</td>
     <th><a href="../phase 1/submission/Group1_Phase1.pdf" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
