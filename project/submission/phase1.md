@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Hello World</td>
+    <td>Query Kings</td>
     <td></td>
-    <th><a href="https://github.com/simonnchong/SECD2523-Database/tree/main/project/phase%201/submission" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
+    <th><a href="../phase 1/submission/Group1_Phase1.pdf" ><img src="../images/folder.png" width="24px" height="24px"></a></th>
   </tr>
   <tr>
     <td>2</td>
